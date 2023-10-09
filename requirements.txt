@@ -5,3 +5,4 @@ requests
 scikit-learn
 nltk
 pip==23.2.1
+gunicorn
