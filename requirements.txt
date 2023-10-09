@@ -1,6 +1,7 @@
 streamlit
-pickle
+pickle5
 pandas
 requests
 scikit-learn
 nltk
+pip==23.2.1
